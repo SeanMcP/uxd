@@ -12,7 +12,7 @@ According to [Joe Natoli](https://www.givegoodux.com/), UXD is the sum of a simp
   user experience design
 ```
 
-UXD explores feasible solutions to design problems.
+UXD explores solutions to design problems, balancing innovation, desirability, feasibility, and viability.
 
 ## Attributes
 The attributes of UXD can be illustrated in the "UX Honeycomb":
